@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mesds!
-- 👀 I’m interested in  fazer Engenharia de Software e Desenvolvimento Full-Stack.
-- 🌱 I’m currently learning  Análise de Desenvolvimento e Sistemas.
-- 💞️ I’m looking to collaborate on  minha aréa de escolha .
-- 📫 How to reach me: Instagram se trata de minha rede social favorita, estou sempre por lá!
+- 👀 I’m interested in do Software Engineering and Full-Stack Development.
+- 🌱 I’m currently learning Development and Systems Analysis and Computer Science
+- 💞️ I’m looking to collaborate on my learning
+- 📫 How to reach me: Instagram is my favorite social network, I'm always there!
 
 <!---
 mesds/mesds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
